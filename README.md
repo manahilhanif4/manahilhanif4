@@ -17,9 +17,18 @@ I'm a Computer Science graduate passionate about building full-stack web applica
 💬 Ask me about: React, Flask, Django, SQLite, Machine Learning,Deep Learning
 🚀 Building: Creative tech projects that solve real problems
 💡 Love: Building smart things
-📫 Reach me: LinkedIn | manahilhanif82@gmail.com
+📫 Reach me: Manahil Hanif | manahilhanif82@gmail.com
+
+## 🔗 Socials:
+
+[![LinkedIn](https://www.linkedin.com/in/manahil-hanif-098a5431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+)
+
+##💻**Tech**
 
 <img width="804" height="66" alt="image" src="https://github.com/user-attachments/assets/16a70bbd-b91b-49f0-9cc0-81d07eac82c1" />
+
+
 
 
 
