@@ -19,9 +19,7 @@ I'm a Computer Science graduate passionate about building full-stack web applica
 💡 Love: Building smart things
 📫 Reach me: Manahil Hanif | manahilhanif82@gmail.com
 
-## 🔗 Socials:
 
-[![LinkedIn](www.linkedin.com/in/manahil-hanif-098a5431b)
 
 ##💻**Tech**
 
