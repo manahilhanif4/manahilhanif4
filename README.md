@@ -21,13 +21,12 @@ I'm a Computer Science graduate passionate about building full-stack web applica
 
 ## 🔗 Socials:
 
-[![LinkedIn](https://www.linkedin.com/in/manahil-hanif-098a5431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-)
+[![LinkedIn](www.linkedin.com/in/manahil-hanif-098a5431b)
 
 ##💻**Tech**
 
 <img width="804" height="66" alt="image" src="https://github.com/user-attachments/assets/16a70bbd-b91b-49f0-9cc0-81d07eac82c1" />
-
+<img width="925" height="263" alt="image" src="https://github.com/user-attachments/assets/7ab52631-f1d6-4f30-9424-048fe3e5f2ca" />
 
 
 
