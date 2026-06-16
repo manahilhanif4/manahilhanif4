@@ -27,6 +27,20 @@ I'm a Computer Science graduate passionate about building full-stack web applica
 <img width="925" height="263" alt="image" src="https://github.com/user-attachments/assets/7ab52631-f1d6-4f30-9424-048fe3e5f2ca" />
 
 
+<h2 align="center">📊 Manahil's GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manahilhanif4&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manahilhanif4&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manahilhanif4&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 
 
