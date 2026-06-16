@@ -1,8 +1,5 @@
 ## Hey I am Manahil👋
 
-<!--
-**manahilhanif4/manahilhanif4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Full Stack Developer | AI/ML Enthusiast
 
 <p align="center">
