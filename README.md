@@ -41,7 +41,16 @@ I'm a Computer Science graduate passionate about building full-stack web applica
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manahilhanif4&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+## 📝 Random Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson" />
+</p>
 
-
+## 📝 Manahil's Dev Quote
+<p align="center">
+  💡 <i>"Success in technology comes from consistency, curiosity, and a willingness to keep learning."</i>
+  <br><br>
+  <b>— Manahil Hanif</b>
+</p>
 
